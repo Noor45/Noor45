@@ -45,7 +45,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noor45&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Noor45&theme=radical)
+<!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Noor45&theme=radical) -->
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=Noor45&theme=radical)
 
