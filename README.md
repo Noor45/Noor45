@@ -90,7 +90,7 @@ I'm dedicated to delivering scalable, intuitive, and high-quality mobile applica
 
 ### 💬 Let's Connect
 
-- 📧 **Email:** [noorulan45@gmail.com(mailto:noorulan45@gmail.com)
+- 📧 **Email:** [noorulan45@gmail.com](mailto:noorulan45@gmail.com)
 - 💼 **LinkedIn:** [www.linkedin.com/in/noorulain-flutterdev](www.linkedin.com/in/noorulain-flutterdev)
 
 ---
