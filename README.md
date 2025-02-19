@@ -54,9 +54,7 @@ I'm dedicated to delivering scalable, intuitive, and high-quality mobile applica
 
 **🔹 Advanced App Features:** Implementing Google Maps, Payment Gateway Integration, Push Notifications, Audio/Video Calls, and Background Services.  
 
-**🔹 Backend & API Integration:** Connecting mobile applications to powerful backends with REST API integration, Firebase, and Socket Programming.  
-
-**🔹 State Management:** Ensuring smooth app performance with efficient state management solutions like Provider, Riverpod, and BLoC.  
+**🔹 Backend & API Integration:** Connecting mobile applications to powerful backends with REST API integration, Firebase, and Socket Programming.    
 
 **🔹 Performance Optimization:** Enhancing app speed and efficiency through code optimization, lazy loading, and debugging best practices.  
 
